@@ -1,0 +1,19 @@
+{
+  "name": "apo4-web-client",
+  "version": "0.0.1",
+  "description": "Web client for apo4 app",
+  "main": "index.js",
+  "repository": "https://github.com/apoe4/client-web",
+  "author": "Leigh Silverstein",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
